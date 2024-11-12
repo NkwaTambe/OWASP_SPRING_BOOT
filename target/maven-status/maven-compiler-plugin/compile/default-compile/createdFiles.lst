@@ -1,0 +1,7 @@
+com/task/application/TaskManagementApplication/entity/SwaggerConfig.class
+com/task/application/TaskManagementApplication/entity/Task.class
+com/task/application/TaskManagementApplication/repository/TaskRepository.class
+com/task/application/TaskManagementApplication/controler/TaskControler.class
+com/task/application/TaskManagementApplication/service/TaskServiceImpl.class
+com/task/application/TaskManagementApplication/service/TaskService.class
+com/task/application/TaskManagementApplication/TaskManagementApplication.class

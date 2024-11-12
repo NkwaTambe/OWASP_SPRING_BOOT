@@ -1,0 +1,7 @@
+/home/jude/aim_projects/OWASP_SPRING_BOOT/src/main/java/com/task/application/TaskManagementApplication/TaskManagementApplication.java
+/home/jude/aim_projects/OWASP_SPRING_BOOT/src/main/java/com/task/application/TaskManagementApplication/controler/TaskControler.java
+/home/jude/aim_projects/OWASP_SPRING_BOOT/src/main/java/com/task/application/TaskManagementApplication/entity/SwaggerConfig.java
+/home/jude/aim_projects/OWASP_SPRING_BOOT/src/main/java/com/task/application/TaskManagementApplication/entity/Task.java
+/home/jude/aim_projects/OWASP_SPRING_BOOT/src/main/java/com/task/application/TaskManagementApplication/repository/TaskRepository.java
+/home/jude/aim_projects/OWASP_SPRING_BOOT/src/main/java/com/task/application/TaskManagementApplication/service/TaskService.java
+/home/jude/aim_projects/OWASP_SPRING_BOOT/src/main/java/com/task/application/TaskManagementApplication/service/TaskServiceImpl.java
